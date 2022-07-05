@@ -4,7 +4,7 @@ What you see is a repository of my solution for task no. 5. of the [Introduction
 
 # Brief description
 
-The task was to TODO
+The task was to write a function performing [topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) of a graph.
 
 # Full description 
 
